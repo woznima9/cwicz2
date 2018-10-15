@@ -3,6 +3,7 @@ package blackjack;
 import java.util.Random;
 import java.util.Scanner;
 
+//my first project
 public class BlackJack {
 
     public static int[][] cards = new int[52][4];                       //dane ułozonych kart z fabryki
